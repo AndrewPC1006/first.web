@@ -1,0 +1,27 @@
+body{
+    background: url(img/animal-animal-photography-cat-104827.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Ubuntu', sans-serif;
+    color: black;
+}
+
+.main{
+    text-align: center;
+    padding-top: 25%;
+    text-shadow: 0px 3px 10px rgba(95, 143, 18, 0.1),
+                 0px 8px 10px rgb(203, 214, 51);
+}
+
+html{
+    height: 100%;
+}
+
+hr{
+    width: 400px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2),
+
+}
+
+
